@@ -10,6 +10,7 @@ The purpose of the analysis is to help Pewlett-Hackard better prepare for retire
 - Many of the employees eligiable for the mentorship program hold a Senior Staff or Engineering title
 
 ![ALT TEXT] (https://github.com/abbys114/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
