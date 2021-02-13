@@ -13,4 +13,7 @@ The purpose of the analysis is to help Pewlett-Hackard better prepare for retire
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+![ALT TEXT](https://github.com/abbys114/Pewlett-Hackard-Analysis/blob/main/Total_retiring.png)
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
